@@ -1,0 +1,67 @@
+#detailsContainer {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.fieldText {
+	width: 50%;
+	margin: 5px;
+	float: left;	
+    font-weight: bold;
+}
+
+.fields {
+	width: 50%;
+	margin: 5px;
+}
+
+.fieldControls {
+	margin: 5px;
+}
+
+.fields {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#grid_heading {
+	font-weight: bold;
+}
+
+.grid_item {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+    min-height: 40px;
+    width: 15%;
+    word-wrap: break-word;
+    max-height: 25px;
+    overflow-y: auto;
+}
+
+.grid_last_column {
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+    min-height: 40px;
+    width: 15%;
+    word-wrap: break-word;
+    max-height: 25px;
+    overflow-y: auto;
+}
+
+#grid {
+	margin: 0 auto;	
+}
+
+.btnCls {
+	width: 80px;
+	margin: 5px;
+}
+
+.btnDeleteCls {
+	width: 80px;
+	margin: 5px;
+	background: red;
+}
