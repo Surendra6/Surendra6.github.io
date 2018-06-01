@@ -43,7 +43,7 @@ function onClear(){
 }
 
 function add(){
-	window.location = 'main.html';
+	window.location = 'index.html';
 }
 
 function deleteRecord(){
